@@ -1,4 +1,4 @@
-# portal3
+# Company Leave Management Portal
 
 ## Project setup
 ```
